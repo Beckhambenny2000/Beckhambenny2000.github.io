@@ -7,17 +7,15 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Beckham's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
+name: Beckham Benny Ross
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I’m a Robotics Systems student at the Singapore Institute of Technology (SIT), with a strong foundation in robotic technologies and a growing passion for intelligent automation. I specialize in the Robot Operating System (ROS), with hands-on experience developing, testing, and integrating robotic software across simulation and real-world platforms. My academic and project experiences have equipped me with practical skills in ROS, C/C++, Python and Spin.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
