@@ -10,7 +10,7 @@ skills:
   - Linux/Ubuntu Development Environment
   - Sensor Integration (LIDAR, IMU, wheel encoders)
 
-main-image: /project2.jpg
+main-image: /limo.png
 ---
 
 ---
