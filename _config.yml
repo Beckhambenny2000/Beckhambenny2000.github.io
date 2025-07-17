@@ -13,12 +13,12 @@ title: Beckham's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Beckham Benny Ross
-headline: headline message
+headline: Systems Engineering Project 1
 description: >- # dont remove this line. this will ignore all new lines until the next section
   I’m a Robotics Systems student at the Singapore Institute of Technology (SIT), with a strong foundation in robotic technologies and a growing passion for intelligent automation. I specialize in the Robot Operating System (ROS), with hands-on experience developing, testing, and integrating robotic software across simulation and real-world platforms. My academic and project experiences have equipped me with practical skills in ROS, C/C++, Python and Spin.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/Me.jpeg
 
 
 # Link your resume
@@ -30,7 +30,7 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: beckham-benny-ross-sit-robotics-system    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
+  github: Beckhambenny2000/Systems-Engineering-Project-1    # https://github.com/{your url slug} 
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
