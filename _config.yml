@@ -55,6 +55,14 @@ skills:
     - Arduino / Raspberry Pi
     - Breadboarding for circuit testing
     - 3D Printing 
+  - category: Programming & Robotics Tools
+    tools:
+    - Python
+    - C
+    - C++
+    - Spin
+    - Robot Operating System (ROS)
+  
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   https://formspree.io/f/{8-digit key}
