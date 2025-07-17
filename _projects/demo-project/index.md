@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Systems Engineering Project 1
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
+description:
    This project involved applying a systems engineering approach to develop and test an autonomous navigation system for the LIMO robot using ROS 1 Melodic. A custom arena was created to serve as a controlled environment for navigation tasks. The robot was configured with ROS navigation packages to perform mapping, localization, and path planning.
 skills: 
   - Structural analysis
