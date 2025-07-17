@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
+title: Systems Engineering Project 1
 description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+   This project involved applying a systems engineering approach to develop and test an autonomous navigation system for the LIMO robot using ROS 1 Melodic. A custom arena was created to serve as a controlled environment for navigation tasks. The robot was configured with ROS navigation packages to perform mapping, localization, and path planning.
 skills: 
   - Structural analysis
   - Aerodynamic design
