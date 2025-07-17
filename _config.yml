@@ -18,7 +18,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   I’m a Robotics Systems student at the Singapore Institute of Technology (SIT), with a strong foundation in robotic technologies and a growing passion for intelligent automation. I specialize in the Robot Operating System (ROS), with hands-on experience developing, testing, and integrating robotic software across simulation and real-world platforms. My academic and project experiences have equipped me with practical skills in ROS, C/C++, Python and Spin.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/Me.jpeg
+profile_image: ./assets/images/profile-image/Me.jpg
 
 
 # Link your resume
