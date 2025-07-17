@@ -4,13 +4,11 @@ title: Systems Engineering Project 1
 description:
    This project involved applying a systems engineering approach to develop and test an autonomous navigation system for the LIMO robot using ROS 1 Melodic. A custom arena was created to serve as a controlled environment for navigation tasks. The robot was configured with ROS navigation packages to perform mapping, localization, and path planning.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Robot Operating System (ROS 1 Melodic)
+  - C++ / Python Programming
+  - Autonomous Navigation (using move_base, amcl, costmaps)
+  - Linux/Ubuntu Development Environment
+  - Sensor Integration (LIDAR, IMU, wheel encoders)
 
 main-image: /project2.jpg
 ---
