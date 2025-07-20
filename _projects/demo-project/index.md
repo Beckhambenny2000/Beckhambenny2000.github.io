@@ -30,7 +30,9 @@ You can put in multiple entries. All images will be at a fixed height in the sam
 
 ### Embeed images
 {% include image-gallery.html images="limo.png" height="400" %} 
-place the images in project folder/images then update the file path.   
+This is the robot model currently being used for our project. 
+{% include image-gallery.html images="Arena.jpg" height="400" %} 
+This is the arena layout that my team and I developed for testing the robot’s navigation capabilities.
 
 ## Embedded LIMO Video (Autoplay)
 
