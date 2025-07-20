@@ -20,7 +20,6 @@ The ultimate objective was to demonstrate how a small mobile robot can navigate 
 This project enables the LIMO mobile robot to autonomously navigate a structured indoor arena using ROS 1 Melodic. The main challenge was configuring and integrating onboard sensors with the ROS navigation stack for reliable localization, path planning, and obstacle avoidance. A systems engineering approach was applied to develop and integrate the navigation program into the robot, ensuring consistent performance in the test environment.
 
 ## Mobile Robot: AgileX LIMO
-#Introduction to AgileX LIMO
 The AgileX LIMO is a versatile, four-wheeled mobile robot platform designed for indoor navigation and autonomous operations. It features integrated sensors and is compatible with ROS (Robot Operating System), making it ideal for research and development in robotics, including localization, path planning, and obstacle avoidance tasks.
 
 {% include image-gallery.html images="limo.png" height="400" %} 
