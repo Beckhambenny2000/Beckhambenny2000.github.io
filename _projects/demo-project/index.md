@@ -22,6 +22,8 @@ This project enables the LIMO mobile robot to autonomously navigate a structured
 ## Robot
 {% include image-gallery.html images="limo.png" height="400" %} 
 The AgileX LIMO is the current robot model used in our project.
+
+## Arena
 {% include image-gallery.html images="Arena.jpg" height="400" %} 
 My team and I designed and developed the arena layout for the robot’s navigation. The arena was constructed following the project theme, “Jewel Canopy Park.”
 
