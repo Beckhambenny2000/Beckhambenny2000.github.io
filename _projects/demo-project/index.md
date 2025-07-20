@@ -34,7 +34,7 @@ place the images in project folder/images then update the file path.
 
 ## Embedded LIMO Video (Autoplay)
 
-{% include mp4-video.html src="/assets/videos/Limo-video.mp4" autoplay="true" %}
+{% include mp4-video.html src="/assets/Video/Limo-video.mp4" autoplay="true" %}
 
 ## Adding external links
 [Source code on Github](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
