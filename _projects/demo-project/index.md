@@ -27,11 +27,11 @@ The AgileX LIMO is the current robot model used in our project.
 {% include image-gallery.html images="Arena.jpg" height="400" %} 
 My team and I designed and developed the arena layout for the robot’s navigation. The arena was constructed following the project theme, “Jewel Canopy Park.”
 
-## Embedded LIMO Video (Autoplay)
+## AgileX LIMO Demonstration
 
 {% include mp4-video.html src="/assets/Video/Limo-video.mp4" autoplay="true" %}
 
-## Adding external links
-[Source code on Github](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
+## Github
+[Source code](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
 
 
