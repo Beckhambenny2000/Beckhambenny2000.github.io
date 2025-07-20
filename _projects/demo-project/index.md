@@ -46,33 +46,7 @@ The width of the video below. Regardless of initial width, all the videos is res
 
 <br>
 
-## Adding a hozontal line
----
-
-## Starting a new line
-leave two spaces "  " at the end or enter <br>
-
-## Adding bold text
-this is how you input **bold text**
-
-## Adding italic text
-Italicized text is the *cat's meow*.
-
 ## Adding external links
 [Source code on Github](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
-
-
-## Adding block quote
-##> A blockquote would look great if you need to highlight something
-
-
-## Adding table 
-
-##| Header 1 | Header 2 |
-##|----------|----------|
-##| Row 1, Col 1 | Row 1, Col 2 |
-##| Row 2, Col 1 | Row 2, Col 2 |
-
-##make sure to leave aline betwen the table and the header
 
 
