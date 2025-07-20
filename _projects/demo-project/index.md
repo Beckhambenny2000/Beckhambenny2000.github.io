@@ -36,8 +36,6 @@ place the images in project folder/images then update the file path.
 
 {% include mp4-video.html src="/assets/videos/Limo-video.mp4" autoplay="true" %}
 
-<br>
-
 ## Adding external links
 [Source code on Github](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
 
