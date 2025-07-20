@@ -19,7 +19,7 @@ The ultimate objective was to demonstrate how a small mobile robot can navigate 
 ## Problem Definition 
 This project enables the LIMO mobile robot to autonomously navigate a structured indoor arena using ROS 1 Melodic. The main challenge was configuring and integrating onboard sensors with the ROS navigation stack for reliable localization, path planning, and obstacle avoidance. A systems engineering approach was applied to develop and integrate the navigation program into the robot, ensuring consistent performance in the test environment.
 
-### Embeed images
+## Robot
 {% include image-gallery.html images="limo.png" height="400" %} 
 The AgileX LIMO is the current robot model used in our project.
 {% include image-gallery.html images="Arena.jpg" height="400" %} 
