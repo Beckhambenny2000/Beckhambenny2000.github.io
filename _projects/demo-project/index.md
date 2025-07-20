@@ -26,6 +26,7 @@ The AgileX LIMO is a versatile, four-wheeled mobile robot platform designed for 
 The AgileX LIMO is the current robot model used in our project.
 
 ## Robot Test Arena – Canopy Park Theme
+The arena serves as a controlled and repeatable test environment designed to evaluate the LIMO robot’s autonomous navigation performance. Built around the “Jewel Canopy Park” theme, it provides structured obstacles and pathways to assess localization, path planning, and obstacle avoidance.
 {% include image-gallery.html images="Arena.jpg" height="400" %} 
 My team and I designed and developed the arena layout for the robot’s navigation. The arena was constructed following the project theme, “Jewel Canopy Park.”
 
