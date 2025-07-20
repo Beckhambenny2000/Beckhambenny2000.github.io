@@ -14,25 +14,16 @@ main-image: /limo.png
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
-
-
-## Embedding images 
-### External images
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+# Goal of the Project 
+The ultimate objective was to demonstrate how a small mobile robot can navigate independently in a structured environment by combining software, hardware, and system-level thinking.
+## Problem Definition 
+This project enables the LIMO mobile robot to autonomously navigate a structured indoor arena using ROS 1 Melodic. The main challenge was configuring and integrating onboard sensors with the ROS navigation stack for reliable localization, path planning, and obstacle avoidance. A systems engineering approach was applied to develop and integrate the navigation program into the robot, ensuring consistent performance in the test environment.
 
 ### Embeed images
 {% include image-gallery.html images="limo.png" height="400" %} 
-This is the robot model currently being used for our project. 
+The AgileX LIMO is the current robot model used in our project.
 {% include image-gallery.html images="Arena.jpg" height="400" %} 
-This is the arena layout that my team and I developed for testing the robot’s navigation capabilities.
+My team and I designed and developed the arena layout for the robot’s navigation. The arena was constructed following the project theme, “Jewel Canopy Park.”
 
 ## Embedded LIMO Video (Autoplay)
 
