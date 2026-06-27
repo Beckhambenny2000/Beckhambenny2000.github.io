@@ -13,7 +13,7 @@ title: Beckham's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Beckham Benny Ross
-headline: SIT Robotics Systems Student | Skilled in ROS 1 | Systems Engineering
+headline: SIT Robotics Systems Student | Project Management | Systems Engineering
 description: >- # dont remove this line. this will ignore all new lines until the next section
   I’m a Robotics Systems student at the Singapore Institute of Technology (SIT), with a strong foundation in robotic technologies and a growing passion for intelligent automation. I specialize in the Robot Operating System (ROS), with hands-on experience developing, testing, and integrating robotic software across simulation and real-world platforms. My academic and project experiences have equipped me with practical skills in ROS, C/C++, Python and Spin.
 
@@ -30,7 +30,7 @@ resume-url: ./assets/resume/Beckham_Benny_Ross_Resume.pdf
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: beckham-benny-ross-sit-robotics-system    # https://www.linkedin.com/in/{your url slug} 
-  github: Beckhambenny2000/Systems-Engineering-Project-1    # https://github.com/{your url slug} 
+  github: Beckhambenny2000/Beckham_workspace    # https://github.com/{your url slug} 
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
@@ -46,14 +46,13 @@ skills:
   - category: 3D Modeling
     tools:
     - Solidworks
-    - Fusion 360 (Autodesk)
     - Inventor (Autodesk)
   - category: Prototyping
     tools:
-    - CNC
-    - Laser Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
+    - Mechanical fabrication
+    - Raspberry Pi
+    - STM32
+    - Electronics/electrical
     - 3D Printing 
   - category: Programming & Robotics Tools
     tools:
@@ -61,7 +60,7 @@ skills:
     - C
     - C++
     - Spin
-    - Robot Operating System (ROS)
+    - Robot Operating System (ROS/ROS2)
   
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
