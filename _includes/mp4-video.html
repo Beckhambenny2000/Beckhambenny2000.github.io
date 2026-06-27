@@ -1,5 +1,9 @@
-<div class="video-container">
-  <video {% if include.autoplay == "true" %}autoplay muted loop{% endif %} controls>
+<div class="video-container" style="width: {{ include.width | default: '100%' }};">
+  <video
+    {% if include.autoplay == "true" %}autoplay muted loop{% endif %}
+    controls
+    style="width: 100%; height: auto;"
+  >
     <source src="{{ include.src }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
