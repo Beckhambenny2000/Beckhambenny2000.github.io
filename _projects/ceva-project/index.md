@@ -2,7 +2,7 @@
 layout: post
 title: Project 4
 description:  
-  This project involves implementing a computer vision system using a fixed camera setup, combining an RGB camera with a depth camera to detect objects and accurately estimate their physical dimensions. As part of the development, we designed and calibrated a pipeline capable of identifying objects in real time and computing their height and dimensions from camera data alone. The system was built with logistics and warehousing applications in mind, simulating how such a solution could be used in a warehouse environment to automatically measure packages or items without manual intervention. Through this project, we explored key concepts in depth sensing, point cloud processing, and object detection to deliver a reliable and practical dimensioning solution.
+  This project aimed to solve a problem statement provided by CEVA Logistics while taking budget, sustainability, and social impact into consideration. To achieve this, we developed a computer vision system using a fixed camera setup that combines an RGB camera with a depth camera to detect objects and accurately estimate their physical dimensions. We designed and calibrated a real-time processing pipeline capable of identifying objects and computing their height and dimensions from camera data without manual intervention. The solution was developed for logistics and warehousing applications, simulating an automated package dimensioning system to improve operational efficiency. Through this project, we applied concepts in depth sensing, point cloud processing, and object detection to deliver a reliable and practical dimensioning solution.
   
 skills: 
   - Robot Operating System (ROS 2 Humble)
