@@ -32,7 +32,7 @@ My team and I designed and developed the arena layout for the robot’s navigati
 
 ## AgileX LIMO Demonstration
 
-{% include mp4-video.html src="/assets/Video/Limo-video.mp4" autoplay="true" %}
+{% include mp4-video.html src="/assets/Video/Limo-video.mp4" autoplay="true" width = "600px"%}
 
 ## Github
 [Project source code](https://github.com/Beckhambenny2000/Beckham_workspace/tree/main/Systems-Engineering-Project-1-Group-6-main)
