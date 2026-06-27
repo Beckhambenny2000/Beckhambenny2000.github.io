@@ -47,7 +47,7 @@ This clip demonstrates our vision-based dimensioning system using the ZED camera
 If you would like to explore the source code for this project, you can visit our GitHub repository:  
 [🔗 View Project Code on GitHub](https://github.com/AloysiusHo/Personal_Project/tree/main/Systems-Engineering-Project-1-Group-6-main)
 
-{% include mp4-video.html src="/assets/Video/ORACLE-X.mp4" autoplay = "true"%} 
+{% include mp4-video.html src="/assets/Video/ORACLE-X.mp4" autoplay = "true" width = "600px"%} 
 <br>
 
 
