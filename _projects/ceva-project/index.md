@@ -9,6 +9,7 @@ skills:
   - C++ / Python Programming
   - Linux/Ubuntu Development Environment
   - System Integration
+  - Project Management
 main-image: /Ceva.png
 ---
 
