@@ -15,30 +15,30 @@ main-image: /Ceva.png
 
 ---
 # Design Challenge
-The core challenge of this project was to build a vision-based system capable of reliably detecting boxes and accurately measuring their physical properties — regardless of how they were positioned in front of the camera. The system needed to handle varying box orientations and sizes without any manual input, reflecting the kind of unpredictability found in real-world logistics and warehousing environments. This highlighted the need for robust object detection, precise depth estimation, and intelligent volume classification.
+The core challenge of this project was to develop a vision-based system capable of reliably detecting boxes and accurately estimating their physical dimensions, regardless of their orientation in front of the camera. The system was designed to handle boxes of different sizes and positions without manual intervention, reflecting the dynamic conditions commonly found in real-world logistics and warehousing environments. This required robust object detection, accurate depth estimation, and reliable volume classification to ensure consistent performance.
 
 
 
 ## Measurement Objective
-Our system was designed to detect a box placed within the camera's field of view and automatically compute its height, dimensions, and total volume. Beyond raw measurements, the system would then compare the calculated volume against predefined thresholds for small, medium, and large box categories — alerting the user if the object's volume exceeds the recommended limits for each size class.
+Our system was designed to detect boxes within the camera's field of view and automatically estimate their height, dimensions, and overall volume. The calculated volume is then compared against predefined thresholds for small, medium, and large box categories. If the measured volume exceeds the allowable limit for its assigned category, the system alerts the user, enabling quick identification of oversized items in logistics and warehousing operations.
 
 
 
 
 ## Thematic Arena: Scaled Warehousing Simulation
-The project was scoped as a scaled-down simulation of a logistics and warehousing use case, where automated dimensioning of parcels is a common operational need. Rather than a physical arena, our working environment was a controlled tabletop setup designed to replicate how boxes might be presented to a fixed scanning station in a warehouse setting.
+The project was developed as a scaled-down simulation of a logistics and warehousing environment, where automated parcel dimensioning is a common operational requirement. Instead of a full-scale warehouse, a controlled tabletop setup was used to emulate how boxes would be presented to a fixed vision-based scanning station, providing a practical environment for developing and validating the system.
 
 
 
 
 ## Hardware Platform: ZED Camera
-For this project, we used the ZED stereo camera as our primary sensing device. The ZED provides high-quality RGB imagery alongside dense depth data, making it well-suited for both object detection and 3D spatial measurement in a fixed-camera configuration.
+For this project, we used the ZED stereo camera as the primary sensing device. The camera captures high-resolution RGB images together with dense depth information, making it well-suited for accurate object detection and 3D dimensional measurement in a fixed-camera setup.
 {% include image-gallery.html images="ZED2i.jpg" height="400"%} 
 
 
 
 ## Detection Framework: YOLO-Based Object Detection
-To identify boxes within the camera's field of view, we employed a YOLO-based object detection model. YOLO's real-time inference capabilities allowed us to accurately localise boxes in each frame, which then served as the region of interest for depth extraction and dimension calculation.
+To detect boxes within the camera's field of view, we employed a YOLO-based object detection model. Its real-time inference capability enabled accurate localisation of boxes in each frame, with the detected bounding boxes serving as the regions of interest for subsequent depth extraction and dimensional measurement.
 {% include image-gallery.html images="Detection.png" height="400"%} 
 
 
@@ -46,7 +46,7 @@ To identify boxes within the camera's field of view, we employed a YOLO-based ob
 ## Demonstration
 This clip demonstrates our vision-based dimensioning system using the ZED camera and YOLO, detecting boxes in real time and instantly computing their height, dimensions, and volume against standard size classifications.  
 If you would like to explore the source code for this project, you can visit our GitHub repository:  
-[🔗 View Project Code on GitHub](https://github.com/AloysiusHo/Personal_Project/tree/main/Systems-Engineering-Project-1-Group-6-main)
+[🔗 View Project Code on GitHub](https://https://github.com/Beckhambenny2000/Beckham_workspace/tree/main/Project%204)
 
 {% include mp4-video.html src="/assets/Video/ORACLE-X.mp4" autoplay = "true" width = "600px"%} 
 <br>
