@@ -33,7 +33,7 @@ The project was scoped as a scaled-down simulation of a logistics and warehousin
 
 ## Hardware Platform: ZED Camera
 For this project, we used the ZED stereo camera as our primary sensing device. The ZED provides high-quality RGB imagery alongside dense depth data, making it well-suited for both object detection and 3D spatial measurement in a fixed-camera configuration.
-{% include image-gallery.html images="ZED2i.png" height="400"%} 
+{% include image-gallery.html images="ZED2i.jpg" height="400"%} 
 
 
 
