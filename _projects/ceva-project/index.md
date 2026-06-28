@@ -46,7 +46,7 @@ To detect boxes within the camera's field of view, we employed a YOLO-based obje
 ## Demonstration
 This clip demonstrates our vision-based dimensioning system using the ZED camera and YOLO, detecting boxes in real time and instantly computing their height, dimensions, and volume against standard size classifications.  
 If you would like to explore the source code for this project, you can visit our GitHub repository:  
-[🔗 View Project Code on GitHub](https://https://github.com/Beckhambenny2000/Beckham_workspace/tree/main/Project%204)
+[🔗 View Project Code on GitHub](https://github.com/Beckhambenny2000/Beckham_workspace/tree/main/Project%204)
 
 {% include mp4-video.html src="/assets/Video/ORACLE-X.mp4" autoplay = "true" width = "600px"%} 
 <br>
